@@ -1,0 +1,9 @@
+final/
+test/
+pipeline_full.R
+*.rds
+*.xlsx
+*.csv
+.Rhistory
+.RData
+.Rproj.user/
